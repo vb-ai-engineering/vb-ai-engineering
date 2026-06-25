@@ -49,8 +49,12 @@ Features multi-process data loading, log-scale price normalization, and CUDA/MPS
 
 - [AI Sidekick Assistant](https://github.com/VinceBmmrt/Langraph-AI-Sidekick-Assistant) 🔗: An experimental AI assistant capable of organizing knowledge and actions as interconnected graphs. Combines web search, automated browsing, code execution, file handling, email writing and reading, and knowledge retrieval from Wikipedia, all while self-evaluating and self-correcting its answers over time. [Watch demo](https://drive.google.com/file/d/1q4y5yFmMHtf4N3U7WncXWXR6v8bpbm9k/view)
 
-
 - [Agents AI Factory](https://github.com/VinceBmmrt/agents-army-factory-autogencore) 🏭: An experimental platform for creating autonomous AI agents that can brainstorm, generate Python code, and collaborate in real-time. Features a Creator agent capable of dynamically generating new agents, inter-agent messaging, and customizable objectives. ⚠️ Experimental. [Watch demo](https://drive.google.com/file/d/1QUplfJMUBH3g-4LIjkz3D-XM2dhRPoo9/view)
+
+- [Prelegal - AI-assisted SaaS platform for drafting professional French legal documents](https://github.com/VinceBmmrt/prelegal) : ⚖️ An end-to-end legaltech SaaS application designed to dynamically generate and customize 12 types of French legal templates (such as NDAs, cloud contracts, and GDPR agreements) through an interactive, real-time AI interface.
+Combines a FastAPI (Python) backend with an adaptive multi-stage Docker setup and a static Next.js 16/Tailwind CSS v4 frontend, executing inference via LiteLLM, OpenRouter, and OpenAI's GPT-o3.
+Features a live side-by-side legal document preview that populates dynamically as users chat step-by-step with the AI assistant, along with complete state persistence via standard JWT authentication and SQLite.
+Leverages custom multi-platform shell scripts and native browser-based PDF rendering to guarantee high-quality formatting and pixel-perfect document export across macOS, Linux, and Windows ecosystems.
 
 - [AI Cybersecurity Analyzer](https://cyber-analyzer-orlod5reua-uc.a.run.app/) 🔐: An AI-powered web application that analyzes Python code for security vulnerabilities. Combines OpenAI for intelligent analysis, a Semgrep MCP server for static scanning, a React/Next.js frontend, and a FastAPI backend, fully containerized with Docker and deployed on both Azure Container Apps and Google Cloud Run using Terraform.
 
