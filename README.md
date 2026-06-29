@@ -6,33 +6,46 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7F7F7&background=000000F8&random=false&width=750&height=70&lines=Hi+there+%F0%9F%91%8B+My+name+is+Vincent)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7F7F7&background=000000F8&random=false&width=750&height=70&lines=Welcome+%F0%9F%91%8B+My+name+is+Vincent" alt="Typing SVG" />
+  </a>
+</p>
 
-Hi there 👋
 
 I'm an AI Engineer and Full-Stack Developer passionate about building intelligent systems that solve real-world problems.
 
 My work focuses on large language models (LLMs), autonomous multi-agent systems, Retrieval-Augmented Generation (RAG), cloud-native AI architectures, and modern full-stack development.
 
-I'm currently working on integrating AI into humanoid robots, combining LLMs, computer vision, ROS2, autonomous navigation, and voice interaction to create intelligent robotic systems capable of interacting with people in real-world environments.
+I'm currently working on integrating AI into humanoid robots, combining LLMs, computer vision, ROS2, autonomous navigation, and voice interaction to create intelligent robotic systems capable of interacting with people.
 
-Always learning, always experimenting, always building.
+I'm fascinated by the idea of giving intelligence a physical body. Every new breakthrough in AI makes me wonder the same thing: what happens when we let these models leave the screen and interact with the real world?
+
+One of the proudest moments of my journey was watching our robot walk through Paris Charles de Gaulle Airport during a live demonstration for airport executives. Seeing something that had existed only as lines of code suddenly navigating a busy international airport and interacting with real people was surreal. Moments like this are exactly why I love engineering
 
 <p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/831329771678673548/49C66203D4484F804076D9E21376CE55F8BC2DFE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="test">
+  <a href="https://youtube.com/shorts/nSDWjJWwXQ0?feature=share">
+    <img src="assets/demo_cdg_image.jpg" alt="Humanoid Robot Demonstration at Paris Charles de Gaulle Airport" width="250">
+  </a>
+</p>
+
+<p align="center">
+  <em>▶ Click the image to watch the full demonstration.</em>
 </p>
 
 
-## 🌱 What I Do
 
-- Currently diving deeper into advanced agentic AI implantation and Robotic Humanoids.
+
+
+
+## 🌱 What I'm Working On
+
+- Currently Exploring the frontiers of Agentic AI and Humanoid Robotics.
 
 Explore some projects to get a feel for my skills:
 
 
 ## 🤖 AI & Agentic Systems
-
-- [Career Digital Twin Alter Ego](https://huggingface.co/spaces/vincentBmmrt/career_conversation): An AI-powered conversational agent built with Gemini, OpenAI SDK, Gradio, and Python. Designed as a digital alter ego to introduce myself to future employers and sends Pushover notifications when a user shares contact info or asks unknown questions.
 
 - [Digital Twin V2 - AWS Cloud Architecture](https://d2s1zfamsgsifg.cloudfront.net/) ☁️: The production-grade evolution of my Career Digital Twin, now fully deployed on AWS with a professional cloud architecture. Features a serverless backend (AWS Lambda + FastAPI), a REST API (API Gateway), global HTTPS delivery (CloudFront), conversation memory persistence (S3), and AI responses powered by AWS Bedrock. Infrastructure managed entirely with Terraform across 3 isolated environments (dev, test, prod), with a fully automated CI/CD pipeline via GitHub Actions using keyless OIDC authentication, no AWS credentials stored anywhere.
 
@@ -122,6 +135,16 @@ Feel free to reach out if you have any questions, suggestions, or just want to s
 </p>
 </div>
 
+<div align="center">
+Always learning, always experimenting, always building.
+</div>
+
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/831329771678673548/49C66203D4484F804076D9E21376CE55F8BC2DFE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="test">
+</p>
 
 
 
