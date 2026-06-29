@@ -8,7 +8,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7F7F7&background=000000F8&random=false&width=750&height=70&lines=Hi+there+%F0%9F%91%8B+My+name+is+Vincent)](https://git.io/typing-svg)
 
-I'm a developer that loves simplifying things. I love breaking down complex problems into easy solutions. I Currently live in Paris as a software developer. My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier. I take criticism well, and use suggestions to improve the product.
+Hi there 👋
+
+I'm an AI Engineer and Full-Stack Developer passionate about building intelligent systems that solve real-world problems.
+
+My work focuses on large language models (LLMs), autonomous multi-agent systems, Retrieval-Augmented Generation (RAG), cloud-native AI architectures, and modern full-stack development.
+
+I'm currently working on integrating AI into humanoid robots, combining LLMs, computer vision, ROS2, autonomous navigation, and voice interaction to create intelligent robotic systems capable of interacting with people in real-world environments.
+
+Always learning, always experimenting, always building.
 
 <p align="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/831329771678673548/49C66203D4484F804076D9E21376CE55F8BC2DFE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="test">
@@ -17,8 +25,7 @@ I'm a developer that loves simplifying things. I love breaking down complex prob
 
 ## 🌱 What I Do
 
-- Currently diving deeper into advanced agentic AI implantation and LLM engineering.
-- Always eager to stay updated with the latest developments in web technologies.
+- Currently diving deeper into advanced agentic AI implantation and Robotic Humanoids.
 
 Explore some projects to get a feel for my skills:
 
