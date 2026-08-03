@@ -112,10 +112,6 @@ Coordinates multiple specialized agents working hierarchically to identify trend
  
 A multi-agent debate simulation powered by CrewAI. Features two AI debaters and a judge over a motion. Supports any combination of models (Claude, ChatGPT, DeepSeek) with a judge that picks a winner based on logic and clarity.
  
-### [GPT App with Spring AI](https://springai-front-33avo5rrd-vb-ai-engineerings-projects.vercel.app/) ☕
- 
-Full-stack AI chatbot with a Java Spring backend and a React frontend.
- 
 ---
  
 ## 🌐 Full-Stack Engineering
