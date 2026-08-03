@@ -94,7 +94,7 @@ An experimental platform for creating autonomous AI agents that can brainstorm, 
  
 An end-to-end legaltech SaaS application designed to dynamically generate and customize 12 types of French legal templates (such as NDAs, cloud contracts, and GDPR agreements) through an interactive, real-time AI interface. Combines a FastAPI (Python) backend with an adaptive multi-stage Docker setup and a static Next.js 16/Tailwind CSS v4 frontend, executing inference via LiteLLM, OpenRouter, and OpenAI's GPT-o3. Features a live side-by-side legal document preview that populates dynamically as users chat step-by-step with the AI assistant, along with complete state persistence via standard JWT authentication and SQLite. Leverages custom multi-platform shell scripts and native browser-based PDF rendering to guarantee high-quality formatting and pixel-perfect document export across macOS, Linux, and Windows ecosystems.
  
-### [AI Cybersecurity Analyzer](https://cyber-analyzer-orlod5reua-uc.a.run.app/) 🔐
+### [AI Cybersecurity Analyzer](https://github.com/vb-ai-engineering/AI-Cybersecurity-Analyzer-Agent) 🔐
  
 An AI-powered web application that analyzes Python code for security vulnerabilities. Combines OpenAI for intelligent analysis, a Semgrep MCP server for static scanning, a React/Next.js frontend, and a FastAPI backend, fully containerized with Docker and deployed on both Azure Container Apps and Google Cloud Run using Terraform.
  
