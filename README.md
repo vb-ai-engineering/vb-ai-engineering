@@ -42,7 +42,7 @@ Explore some projects below to get a feel for my skills.
  
 The production-grade evolution of my Career Digital Twin, now fully deployed on AWS with a professional cloud architecture. Features a serverless backend (AWS Lambda + FastAPI), a REST API (API Gateway), global HTTPS delivery (CloudFront), conversation memory persistence (S3), and AI responses powered by AWS Bedrock. Infrastructure managed entirely with Terraform across 3 isolated environments (dev, test, prod), with a fully automated CI/CD pipeline via GitHub Actions using keyless OIDC authentication — no AWS credentials stored anywhere.
  
-### [Price Prediction - LLM + Deep Neural Network](https://github.com/vb-ai-engineering/amazon-price-prediction-llm-deep-neural-network) 🏆
+### [Price Prediction - LLM + Deep Neural Network](https://github.com/vb-ai-engineering/Amazon-Price-Predictor-Fine-Tuning-LLM-Deep-Neural-Network-Pipeline) 🏆
  
 An end-to-end ML pipeline predicting Amazon product prices from raw text descriptions, combining LLM-based preprocessing with a custom deep neural network. Uses Groq to summarize 820,000+ product listings into structured 5-field summaries via async batch jobs, then trains a 10-layer ResNet-style DNN (4,096 neurons, 100M+ parameters) with PyTorch. Remarkably, the fine-tuned LLaMA 3.2 model achieves higher accuracy than frontier LLMs on this specific benchmark — highlighting how domain-specific fine-tuning can outperform the world's most advanced general-purpose models. Features multi-process data loading, log-scale price normalization, and CUDA/MPS/CPU auto-detection.
  
