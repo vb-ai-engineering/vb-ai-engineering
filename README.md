@@ -39,6 +39,7 @@ Explore some projects below to get a feel for my skills.
 ## 🤖 AI & Agentic Systems
  
 ### [Digital Twin V2 - AWS Cloud Architecture](https://d2s1zfamsgsifg.cloudfront.net/) ☁️
+Link of the repository : https://github.com/vb-ai-engineering/digital-twin-V2
  
 The production-grade evolution of my Career Digital Twin, now fully deployed on AWS with a professional cloud architecture. Features a serverless backend (AWS Lambda + FastAPI), a REST API (API Gateway), global HTTPS delivery (CloudFront), conversation memory persistence (S3), and AI responses powered by AWS Bedrock. Infrastructure managed entirely with Terraform across 3 isolated environments (dev, test, prod), with a fully automated CI/CD pipeline via GitHub Actions using keyless OIDC authentication — no AWS credentials stored anywhere.
  
