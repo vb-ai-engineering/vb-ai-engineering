@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7F7F7&background=000000F8&random=false&width=750&height=70&lines=Welcome+%F0%9F%91%8B+My+name+is+Vincent" alt="Typing SVG" />
   </a>
 </p>
-A new chapter begins ! Welcome to my new GitHub profile, where I showcase my most impactful projects and continue building AI-powered products and intelligent systems.
+ Welcome to my new GitHub profile, where I showcase my most impactful projects and continue building AI-powered products and intelligent systems.
  
 This space brings together selected work from my AI engineering journey, focusing on LLMs, autonomous agents, robotics, and modern software architectures.
  
